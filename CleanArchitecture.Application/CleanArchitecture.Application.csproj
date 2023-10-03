@@ -11,13 +11,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="CleanArchitecture.Domain\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
-    <Compile Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfo.cs" />
     <Compile Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.GlobalUsings.g.cs" />
     <Compile Remove="CleanArchitecture.Domain\Entities\User.cs" />
     <Compile Remove="CleanArchitecture.Domain\Entities\BaseEntity.cs" />
     <Compile Remove="CleanArchitecture.Domain\Interfaces\IBaseRepository.cs" />
     <Compile Remove="CleanArchitecture.Domain\Interfaces\IUnitOfWork.cs" />
     <Compile Remove="CleanArchitecture.Domain\Interfaces\IUserRepository.cs" />
+    <Compile Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="CleanArchitecture.Domain\obj\CleanArchitecture.Domain.csproj.nuget.g.targets" />
@@ -25,17 +25,17 @@
     <None Remove="CleanArchitecture.Domain\obj\project.nuget.cache" />
     <None Remove="CleanArchitecture.Domain\obj\project.assets.json" />
     <None Remove="CleanArchitecture.Domain\obj\CleanArchitecture.Domain.csproj.nuget.g.props" />
+    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.assets.cache" />
+    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.FileListAbsolute.txt" />
     <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig" />
     <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache" />
-    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.assets.cache" />
     <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache" />
     <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.dll" />
-    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll" />
     <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb" />
+    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll" />
     <None Remove="CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.deps.json" />
     <None Remove="CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.dll" />
     <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll" />
     <None Remove="CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.pdb" />
-    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.FileListAbsolute.txt" />
   </ItemGroup>
 </Project>
