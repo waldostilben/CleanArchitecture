@@ -28,5 +28,14 @@
     <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig" />
     <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache" />
     <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.assets.cache" />
+    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache" />
+    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.dll" />
+    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll" />
+    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb" />
+    <None Remove="CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.deps.json" />
+    <None Remove="CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.dll" />
+    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll" />
+    <None Remove="CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.pdb" />
+    <None Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.FileListAbsolute.txt" />
   </ItemGroup>
 </Project>
