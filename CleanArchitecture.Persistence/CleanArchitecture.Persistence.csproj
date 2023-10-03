@@ -12,4 +12,12 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.11" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Context\" />
+    <None Remove="Repositories\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Context\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
 </Project>

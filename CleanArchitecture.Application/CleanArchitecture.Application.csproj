@@ -13,6 +13,11 @@
     <Compile Remove="CleanArchitecture.Domain\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
     <Compile Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfo.cs" />
     <Compile Remove="CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.GlobalUsings.g.cs" />
+    <Compile Remove="CleanArchitecture.Domain\Entities\User.cs" />
+    <Compile Remove="CleanArchitecture.Domain\Entities\BaseEntity.cs" />
+    <Compile Remove="CleanArchitecture.Domain\Interfaces\IBaseRepository.cs" />
+    <Compile Remove="CleanArchitecture.Domain\Interfaces\IUnitOfWork.cs" />
+    <Compile Remove="CleanArchitecture.Domain\Interfaces\IUserRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="CleanArchitecture.Domain\obj\CleanArchitecture.Domain.csproj.nuget.g.targets" />
